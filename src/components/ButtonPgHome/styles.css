@@ -1,0 +1,12 @@
+
+
+.btn-model {
+  width: 150px;
+  height: 45px;
+  background-color: #ff2323;
+  border-radius: 6px;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}

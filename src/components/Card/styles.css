@@ -1,0 +1,23 @@
+
+.container-card {
+  min-height: 100%;
+  
+ 
+}
+
+.home-card {
+  background-color: #ffffff;
+  margin: 0 auto;
+  height: 200px;
+  padding: 15px;
+  color: #6f6f6f;
+  font-size: 20px;
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.home-card h3 {
+  color: #6f6f6f;
+  font-size: 20px;
+}

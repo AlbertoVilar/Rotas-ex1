@@ -1,4 +1,23 @@
-:root {
-  
+* {
+  margin: 0;
+  padding: 0;
+ 
+}
+.size-page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.model-containers {
+  width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+main {
+  background-color: #6f6f6f;
+  width: 100%;
+  min-height: 720px;
+  padding-top: 20px;
+ 
 }
 
