@@ -1,6 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+:root {
+  --color-bg-primary: #fff;
+  --color-bg-secundary:  #FF2323;
+  --color-bg-terciary: #6f6f6f;
+
+  --color-ft-primary: #fff;
+  --color-ft-secundary: #6f6f6f;
+}
+
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
  
 }
 .size-page {
@@ -14,7 +28,7 @@
 }
 
 main {
-  background-color: #6f6f6f;
+  background-color: var(--color-bg-terciary);
   width: 100%;
   min-height: 720px;
   padding-top: 20px;
