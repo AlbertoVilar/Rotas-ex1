@@ -1,13 +1,16 @@
 
 import Card from "../../../components/Card";
-import ButtonPgHome from "../../../components/ButtonPgHome/inex";
+
 
 
 export default function HomeBody() {
   return (
     <main>
-      <Card name="Página inicial" />
-      <ButtonPgHome text="Ver Promoção" />
+      <div className="container-card model-containers ">
+        <section className="home-card">
+          <Card name="Página inicial" />
+        </section>
+      </div>
     </main>
   );
 }
