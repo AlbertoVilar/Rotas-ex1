@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
-import ButtonPgHome from "../../../components/ButtonPgHome/inex";
 import Card from "../../../components/Card";
-import '../../../components/Card/styles.css'
+import ButtonPgHome from "../../../components/ButtonPgHome/inex";
 
 
 export default function Scription() {
